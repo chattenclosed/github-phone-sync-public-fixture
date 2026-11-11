@@ -1,1 +1,1 @@
-Unselected sibling. The selective-sync integrity test must preserve this object.
+Unselected sibling remote-only edit for the Fetch and Pull fixture.
