@@ -1,1 +1,1 @@
-Incoming selected file for Fetch and Pull.
+Remote overlapping edit for the conflict fixture.
