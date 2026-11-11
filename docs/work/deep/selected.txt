@@ -1,2 +1,2 @@
-Selected file for the Android selective-sync integrity test.
+Independent remote first-line edit for pending replay.
 External SAF edit
