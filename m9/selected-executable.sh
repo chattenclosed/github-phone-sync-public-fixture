@@ -1,2 +1,2 @@
 #!/bin/sh
-echo selected-executable
+echo m9-selected-executable-edit
