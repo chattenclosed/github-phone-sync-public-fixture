@@ -1,2 +1,1 @@
-Independent remote first-line edit for pending replay.
-External SAF editLater working edit
+M9 release integrity selected edit
